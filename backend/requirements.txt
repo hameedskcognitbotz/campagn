@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlmodel
+pydantic-settings
+groq
+twilio
+python-multipart
+python-dotenv
+pandas
+aiosqlite
+httpx
+pytest
+openpyxl
+openpyxl
+openpyxl
