@@ -2,7 +2,6 @@
 backend/venv/
 backend/__pycache__/
 *.pyc
-backend/campaign.db
 
 # JavaScript / Node
 frontend/node_modules/
@@ -12,8 +11,3 @@ frontend/dist/
 # Environment
 .env
 backend/.env
-
-# Data (Optional - usually good to include headers only, but for this small/local project let's keep them if user didn't say otherwise. Wait, Excel/CSV are often excluded but user uploaded them as context. I'll include them for now unless they are too big.)
-# Cozhaven Leads.csv
-# Customer list CZ.csv
-# *.xlsx
